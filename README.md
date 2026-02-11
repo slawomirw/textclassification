@@ -22,3 +22,7 @@ python -m textclassification
 pip install -e ".[dev]"
 pytest
 ```
+
+## Result
+
+![Result](result.png)
